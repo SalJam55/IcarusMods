@@ -25,7 +25,7 @@ I have tried to add QOL changes to the game to reduce the grind, but also keep w
 	•	Replication Cost (Credits)	$50	>	$100
 	
 
-======================================================================================================
+===========================================================================
 
 
 ## Tame_QOL
