@@ -1,5 +1,9 @@
 # Lore Friendly QOL changes by SalJam
 
+## I have uploaded both pak files for manually adding to the game and EXMODZ files for Jimk72's ModManager.
+
+===========================================================================
+
 I have tried to add QOL changes to the game to reduce the grind, but also keep within the lore and not make us OP
 ## Item_QOL
 
