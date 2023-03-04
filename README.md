@@ -50,3 +50,18 @@ I have tried to add QOL changes to the game to reduce the grind, but also keep w
 	•	Swim speed			300	>	320
 	•	Food consumption		4	>	5
 	•	Water consumption		2	>	3
+	
+	
+===========================================================================
+
+## AI_Adjustments
+
+This is my first version of trying to alter the interactions between the various animal groups.
+I have tested this mod over a few missions and have observed the following:
+- Wolfs attacking and eating baby deer and rabbits etc
+- Bears chasing and attacking deer and chamois etc
+- Snow wolfs chasing snoa rabbits (less variety in the Snow biome)
+
+I havent played a mission that is mainly based in the desert yet, but these behaviours should work there also.
+
+In future testing I may test parent animals being able to attack smaller predators. A buffalo attacking a wolf to defend its child for example.
