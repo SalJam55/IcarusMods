@@ -1,0 +1,40 @@
+{
+  "mods": [
+    {
+      "name": "AI_Adjustments",
+      "author": "SalJam",
+      "version": "1.0",
+      "compatibility": "All",
+      "description": "This is my first version of trying to alter the interactions between the various animal groups.",
+      "imageURL": "",
+      "readmeURL": "",
+      "files": {
+          "exmodz": "https://github.com/SalJam55/IcarusMods/raw/main/AI_Adjustments.EXMODZ"
+      }
+    },
+    {
+      "name": "Item_QOL",
+      "author": "SalJam",
+      "version": "1.0",
+      "compatibility": "All",
+      "description": "I have tried to add QOL changes to the game to reduce the grind, but also keep within the lore and not make us OP",
+      "imageURL": "",
+      "readmeURL": "",
+      "files": {
+          "exmodz": "https://github.com/SalJam55/IcarusMods/raw/main/Item_QOL.EXMODZ"
+      }
+    },
+    {
+      "name": "Tame_QOL",
+      "author": "SalJam",
+      "version": "1.0",
+      "compatibility": "All",
+      "description": "Here I have made minor changes to the mounts, to make each animal type have different traits.",
+      "imageURL": "",
+      "readmeURL": "",
+      "files": {
+          "exmodz": "https://github.com/SalJam55/IcarusMods/raw/main/Tame_QOL.EXMODZ"
+      }
+    }
+   ]
+ }
