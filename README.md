@@ -65,7 +65,6 @@ I have tested this mod over a few missions and have observed the following:
 - Wolfs attacking and eating baby deer and rabbits etc
 - Bears chasing and attacking deer and chamois etc
 - Snow wolfs chasing snoa rabbits (less variety in the Snow biome)
+- Curent version includes parents attacking small predators
 
 I havent played a mission that is mainly based in the desert yet, but these behaviours should work there also.
-
-In future testing I may test parent animals being able to attack smaller predators. A buffalo attacking a wolf to defend its child for example.
