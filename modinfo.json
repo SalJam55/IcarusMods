@@ -5,7 +5,7 @@
       "author": "SalJam",
       "version": "1.0",
       "compatibility": "All",
-      "description": "This is my first version of trying to alter the interactions between the various animal groups.",
+      "description": "Wolfs attack baby deer, rabbits etc. Bears attack deer, chamois etc. Snow wolfs snow rabbits (less variety in the Snow biome). Curent version includes parents attacking small predators.",
       "imageURL": "",
       "readmeURL": "",
       "files": {
@@ -17,7 +17,7 @@
       "author": "SalJam",
       "version": "1.0",
       "compatibility": "All",
-      "description": "I have tried to add QOL changes to the game to reduce the grind, but also keep within the lore and not make us OP",
+      "description": "Small QOL changes to reduce the grind, but also keep within the lore and not make us OP. Reduced deep mining time, increase workshop exotics items strength, stone furnace makes glass, higher power power outputs.",
       "imageURL": "",
       "readmeURL": "",
       "files": {
@@ -29,7 +29,7 @@
       "author": "SalJam",
       "version": "1.0",
       "compatibility": "All",
-      "description": "Here I have made minor changes to the mounts, to make each animal type have different traits.",
+      "description": "Small changes to the mounts, to make each animal type have more defined traits. Moa is quicker, but has 20KG weight limit. Buffalo has more speed and stamina. Added tame time to balance.",
       "imageURL": "",
       "readmeURL": "",
       "files": {
