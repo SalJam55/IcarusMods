@@ -15,9 +15,9 @@
     {
       "name": "Item_QOL",
       "author": "SalJam",
-      "version": "1.0",
+      "version": "1.1",
       "compatibility": "All",
-      "description": "Small QOL changes to reduce the grind, but also keep within the lore and not make us OP. Reduced deep mining time, increase workshop exotics items strength, stone furnace makes glass, higher power power outputs.",
+      "description": "Small QOL changes to reduce the grind, but also keep within the lore and not make us OP. Reduced deep mining time, increase workshop exotics items strength, stone furnace makes glass, higher generator power outputs, adjusted epoxy and electronics requirements.",
       "imageURL": "",
       "readmeURL": "",
       "files": {
