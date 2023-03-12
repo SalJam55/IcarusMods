@@ -7,7 +7,7 @@
       "compatibility": "All",
       "description": "Wolfs attack baby deer, rabbits etc. Bears attack deer, chamois etc. Snow wolfs snow rabbits (less variety in the Snow biome). Curent version includes parents attacking small predators.",
       "imageURL": "",
-      "readmeURL": "",
+      "readmeURL": "https://github.com/SalJam55/IcarusMods/raw/main/README.md",
       "files": {
           "exmodz": "https://github.com/SalJam55/IcarusMods/raw/main/AI_Adjustments.EXMODZ"
       }
@@ -19,7 +19,7 @@
       "compatibility": "All",
       "description": "Small QOL changes to reduce the grind, but also keep within the lore and not make us OP. Reduced deep mining time, increase workshop exotics items strength, stone furnace makes glass, higher generator power outputs, adjusted epoxy and electronics requirements.",
       "imageURL": "",
-      "readmeURL": "",
+      "readmeURL": "https://github.com/SalJam55/IcarusMods/raw/main/README.md",
       "files": {
           "exmodz": "https://github.com/SalJam55/IcarusMods/raw/main/Item_QOL.EXMODZ"
       }
@@ -31,7 +31,7 @@
       "compatibility": "All",
       "description": "Small changes to the mounts, to make each animal type have more defined traits. Moa is quicker, but has 20KG weight limit. Buffalo has more speed and stamina. Added tame time to balance.",
       "imageURL": "",
-      "readmeURL": "",
+      "readmeURL": "https://github.com/SalJam55/IcarusMods/raw/main/README.md",
       "files": {
           "exmodz": "https://github.com/SalJam55/IcarusMods/raw/main/Tame_QOL.EXMODZ"
       }
