@@ -27,7 +27,23 @@ I have tried to add QOL changes to the game to reduce the grind, but also keep w
 	•	Replication Cost (Exotic)	400	>	500
 #### IC-001 Power Source
 	•	Replication Cost (Credits)	$50	>	$100
-	
+## v1.1
+#### Epoxy
+	•	Tree Sap			4	>	3
+	•	Crushed Bone		        4	>	3 
+#### Electronics
+	•	Copper				3	>	2
+#### Concrete
+	•	Silica				4	>	3
+#### Woodwalls				
+	•	Wood				50	>	60
+	•	Nails				18	>	16
+	•	Rope				12	>	8
+#### Wood Spikes
+	•	Wood				80	>	50
+	•	Rope				6	>	8
+
+
 
 ===========================================================================
 
