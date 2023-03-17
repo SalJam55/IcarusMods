@@ -27,6 +27,7 @@ I have tried to add QOL changes to the game to reduce the grind, but also keep w
 	•	Replication Cost (Exotic)	400	>	500
 #### IC-001 Power Source
 	•	Replication Cost (Credits)	$50	>	$100
+
 ## v1.1
 #### Epoxy
 	•	Tree Sap			4	>	3
@@ -43,6 +44,28 @@ I have tried to add QOL changes to the game to reduce the grind, but also keep w
 	•	Wood				80	>	50
 	•	Rope				6	>	8
 
+## v1.2
+#### Dropship
+	•	Slots				15	>	25
+#### Workshop
+	•	Crate slots			25	>	35
+	•	Module slots			2	>	3
+	•	Module Slots II			5	>	6
+	•	Workshop tools repairable with 1 Exotic at a powered repair bench (not repair kit)
+	•	Workshop armour repairable with 1 Exotic at a powered repair bench (not repair kit)
+#### Wood Spikes
+	•	Wood				50	>	80
+	•	Rope				6	>	10
+	•	Iron				0	>	6
+	•	Durability			5000	>	7500
+#### Hedgehog spikes
+	•	Wood				60	>	50
+	•	Iron nails			0	>	6
+	•	Durability			1000	>	1500
+#### Other
+	•	Wood composter can use spoiled plants to fill biofuel, but slower than T3 composter 
+	•	Electricity tool craftable at Machine Bench
+	•	Water Wheel craftable at machine bench
 
 
 ===========================================================================
@@ -51,22 +74,22 @@ I have tried to add QOL changes to the game to reduce the grind, but also keep w
 ## Tame_QOL
 
 - Here I have made minor changes to the mounts, to make each animal type have different traits.
-- I have made various adjustments to balance out the increases
+- I have made adjustments to food / water requirements to balance out the increases
 
 #### Mountable Animals
 #### MOA	
 	•	Tame time 			1200s 	>	1500s
 	•	Base Stamina			300	>	375 
-	•	Base Movement speed		180	>	185
+	•	Base Movement speed		180	>	200 (v1.1 further increase)
 	•	Swim speed			300	>	320
 	•	Food consumption		4	>	6
 	•	Water consumption		2	>	3
-	•	Maxx carrying Weight		100	>	20
+	•	Max carrying Weight		100kg	>	20kg
 		
 #### Buffalo
 	•	Tame time 			1200s 	>	1500s
 	•	Base Movement speed		140	>	160
-	•	Base Stamina			400	>	425
+	•	Base Stamina			400	>	440 (v1.1 further increase)
 	•	Swim speed			300	>	320
 	•	Food consumption		4	>	5
 	•	Water consumption		2	>	3
@@ -78,9 +101,9 @@ I have tried to add QOL changes to the game to reduce the grind, but also keep w
 
 This is my first version of trying to alter the interactions between the various animal groups.
 I have tested this mod over a few missions and have observed the following:
-- Wolfs attacking and eating baby deer and rabbits etc
-- Bears chasing and attacking deer and chamois etc
-- Snow wolfs chasing snoa rabbits (less variety in the Snow biome)
-- Curent version includes parents attacking small predators
+- Wolf class attacking and eating baby deer / rabbit class
+- Bear class chasing and attacking deer buffalo class
+- Snow wolfs chasing snow rabbits (less variety in the Snow biome)
+- Curent version includes parents attacking small predators to defend their young
 
-I havent played a mission that is mainly based in the desert yet, but these behaviours should work there also.
+In my testing so far, the world feel more alive and you regularly see and hear animals being attacked and eaten.
