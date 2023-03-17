@@ -27,7 +27,7 @@
     {
       "name": "Tame_QOL",
       "author": "SalJam",
-      "version": "1.0",
+      "version": "1.1",
       "compatibility": "All",
       "description": "Small changes to the mounts, to make each animal type have more defined traits. Moa is quicker, but has 20KG weight limit. Buffalo has more speed and stamina. Added tame time to balance.",
       "imageURL": "",
