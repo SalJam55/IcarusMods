@@ -50,8 +50,8 @@ I have tried to add QOL changes to the game to reduce the grind, but also keep w
 	•	Crate slots			25	>	35
 	•	Module slots			2	>	3
 	•	Module Slots II			5	>	6
-	•	Workshop tools repairable with 1 Exotic at a powered repair bench (not repair kit)
-	•	Workshop armour repairable with 1 Exotic at a powered repair bench (not repair kit)
+	•	Workshop tools repairable with 1 Exotic at a powered repair bench (in place of repair kit)
+	•	Workshop armour repairable with 1 Exotic at a powered repair bench (in place of repair kit)
 	Wood Spikes
 	•	Wood				50	>	80
 	•	Rope				6	>	10
