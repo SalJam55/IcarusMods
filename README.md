@@ -94,7 +94,6 @@ I have tried to add QOL changes to the game to reduce the grind, but also keep w
 	•	Food consumption		4	>	5
 	•	Water consumption		2	>	3
 ## v1.1
-	•	Mount animals will now use an animal bed for sleeping also
 	•	Balance increases to Moa speed and Buffalo stamina
 	
 ===========================================================================
