@@ -67,6 +67,8 @@ I have tried to add QOL changes to the game to reduce the grind, but also keep w
 	•	Electricity tool craftable at Machine Bench
 	•	Water Wheel craftable at Machine bench
 	•	Wild Squash collected min-max	1-2	>	2-5
+	•	Default inventory slots		30	>	36
+	•	Fur is now a useable fuel for fires etc
 	Glass Requirements
 	•	Glass Wall			20	>	16
 	•	Glass Halfpiece			20	>	10
@@ -76,6 +78,9 @@ I have tried to add QOL changes to the game to reduce the grind, but also keep w
 	•	Glass Roof Corner		10	>	8	
 	•	Glass Door			20	>	16
 	•	Glass Window			18	>	10
+	Water
+	•	Water Pump output		1000	>	1250
+	•	Masonry Bench requirement	250	>	200
 
 ===========================================================================
 
