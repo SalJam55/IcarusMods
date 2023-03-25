@@ -9,7 +9,7 @@ I have tried to add QOL changes to the game to reduce the grind, but also keep w
 
 ## v1.0
 	Items
-	•	Biofuel	drill speed		All mining time reduced by 10 seconds
+	•	Biofuel	drill speed		All mining time reduced by 20 seconds
 	•	Deep mining drill speed		+25%	>	+45%
 	•	Stone furnace is now able to smelt glass	
 	•	Biofuel Generator Power Output	5000	>	7000
@@ -65,8 +65,16 @@ I have tried to add QOL changes to the game to reduce the grind, but also keep w
 	•	Wood composter can use spoiled plants to fill biofuel, but slower than T3 composter 
 	•	Electricity tool craftable at Machine Bench
 	•	Water Wheel craftable at Machine bench
-	•	Squash harvested min-max	1-2	>	2-5
-
+	•	Wild Squash collected min-max	1-2	>	2-5
+	Glass Requirements
+	•	Glass Wall			20	>	16
+	•	Glass Halfpiece			20	>	10
+	•	Glass Half Pinch		20	>	10
+	•	Glass Wall Angled		10	>	8
+	•	Glass Ramp			20	>	16
+	•	Glass Roof Corner		10	>	8	
+	•	Glass Door			20	>	16
+	•	Glass Window			18	>	10
 
 ===========================================================================
 
