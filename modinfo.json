@@ -15,9 +15,9 @@
     {
       "name": "Item_QOL",
       "author": "SalJam",
-      "version": "1.2",
+      "version": "1.3",
       "compatibility": "All",
-      "description": "Small QOL changes to reduce the grind, but also keep within the lore and not make us OP. Reduced deep mining time, increase workshop exotics items strength, stone furnace makes glass, higher generator power outputs, adjusted epoxy and electronics requirements. View read me for full list",
+      "description": "Small QOL changes to reduce the grind, but also keep within the lore and not make us OP. Reduced deep mining time, increased workshop items strength, stone furnace makes glass, higher generator power outputs, adjusted epoxy and electronics requirements. View read me for full list",
       "imageURL": "",
       "readmeURL": "https://github.com/SalJam55/IcarusMods/raw/main/README.md",
       "files": {
