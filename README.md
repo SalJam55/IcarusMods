@@ -61,7 +61,8 @@ I have tried to add QOL changes to the game to reduce the grind, but also keep w
 	•	Wood				60	>	50
 	•	Iron nails			0	>	6
 	•	Durability			1000	>	1500
-	Other
+## v1.3	
+	Misc
 	•	Wood composter can use spoiled plants to fill biofuel, but slower than T3 composter 
 	•	Electricity tool craftable at Machine Bench
 	•	Water Wheel craftable at Machine bench
