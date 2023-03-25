@@ -63,6 +63,7 @@ I have tried to add QOL changes to the game to reduce the grind, but also keep w
 	•	Durability			1000	>	1500
 ## v1.3	
 	Misc
+	•	Updated descriptions of items that have been changed to make sure they match.
 	•	Wood composter can use spoiled plants & Tree Sap to fill biofuel (slower than T3 composter) 
 	•	Electricity tool craftable at Machine Bench
 	•	Water Wheel craftable at Machine bench
