@@ -9,8 +9,8 @@ I have tried to add QOL changes to the game to reduce the grind, but also keep w
 
 ## v1.0
 	Items
-	•	Biofuel	drill speed		All mining time reduced by 20 seconds
-	•	Deep mining drill speed		+25%	>	+45%
+	•	Biofuel	deep mining speed	All mining time reduced by 20 seconds
+	•	Electric Deep mining speed	+25%	>	+45%
 	•	Stone furnace is now able to smelt glass	
 	•	Biofuel Generator Power Output	5000	>	7000
 	•	Waterpump Power requirement 	1000	>	750
@@ -63,7 +63,7 @@ I have tried to add QOL changes to the game to reduce the grind, but also keep w
 	•	Durability			1000	>	1500
 ## v1.3	
 	Misc
-	•	Wood composter can use spoiled plants to fill biofuel, but slower than T3 composter 
+	•	Wood composter can use spoiled plants & Tree Sap to fill biofuel (slower than T3 composter) 
 	•	Electricity tool craftable at Machine Bench
 	•	Water Wheel craftable at Machine bench
 	•	Wild Squash collected min-max	1-2	>	2-5
