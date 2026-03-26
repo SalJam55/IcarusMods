@@ -8,41 +8,41 @@
 ### Larkell Leader Envirosuit
 OP envirosuit but costs a lot! 
 
-• Base Physical Damage Resistance 5%  
-• Base Heat Resistance 6%  
-• Base Cold Resistance 6%  
-• Base Exposure Resistance +4%  
-• Tamed Creature Physical Resistance 2%  
-• Tamed Creature Movement Speed 2%  
-• Tamed Creature Stamina Regeneration 2%  
-• Tamed Creature Maximum Stamina 2%  
-• Tamed Creature Weight Capacity 2%  
-• Tamed Creature Health Regeneration 2%  
-• Tamed Creature Maximum Health +2%  
-• Oxygen Slots +1  
-• Food Slots +1  
-• Water Slots +1  
-• Backpack Slots +6  
-• Radiation Resistance 10%  
+• Base Physical Damage Resistance : +5%  
+• Base Heat Resistance : +6%  
+• Base Cold Resistance : +6%  
+• Base Exposure Resistance : +4%  
+• Tamed Creature Physical Resistance : +2%  
+• Tamed Creature Movement Speed : +2%  
+• Tamed Creature Stamina Regeneration : +2%  
+• Tamed Creature Maximum Stamina : +2%  
+• Tamed Creature Weight Capacity : +2%  
+• Tamed Creature Health Regeneration : +2%  
+• Tamed Creature Maximum Health : +2%  
+• Oxygen Slots : +1  
+• Food Slots : +1  
+• Water Slots : +1  
+• Backpack Slots : +6  
+• Radiation Resistance : +10%  
 
 ### Larkell Leader Backpack
 OP backpack but isn’t cheap!
 
-• Base Backpack Slots +12  
-• Charge Items in Inventory 1  
-• Base Water Consumption −5%  
-• Base Food Consumption −5%  
-• Base Oxygen Consumption −5%  
-• Base Maximum Stamina +5%  
-• Base Stamina Action Cost −5%  
-• Base Stamina Regeneration +5%  
-• Base Animal Threat Modifier −5%  
-• Base Movement Speed +5%  
-• Base Item Wear −5%  
-• Base Weight Capacity +5%  
-• Base Ore Carry Weight −25%  
-• Base Wood Carry Weight −25%  
-• Base Radiation Resistance 5%  
+• Base Backpack Slots : +12  
+• Charge Items in Inventory : Yes  
+• Base Water Consumption : −5%  
+• Base Food Consumption : −5%  
+• Base Oxygen Consumption : −5%  
+• Base Maximum Stamina :+5%  
+• Base Stamina Action Cost : −5%  
+• Base Stamina Regeneration : +5%  
+• Base Animal Threat Modifier : −5%  
+• Base Movement Speed : +5%  
+• Base Item Wear : −5%  
+• Base Weight Capacity : +5%  
+• Base Ore Carry Weight : −25%  
+• Base Wood Carry Weight : −25%  
+• Base Radiation Resistance : +5%  
 
 
 ## Advanced Versions of items
