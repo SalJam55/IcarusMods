@@ -2,6 +2,96 @@
 
 ## I have uploaded both pak files for manually adding to the game and EXMODZ files for Jimk72's ModManager.
 
+
+## 2026 Changes to come
+
+### Larkell Leader Envirosuit
+OP envirosuit but costs a lot! 
+
+• Base Physical Damage Resistance 5%  
+• Base Heat Resistance 6%  
+• Base Cold Resistance 6%  
+• Base Exposure Resistance +4%  
+• Tamed Creature Physical Resistance 2%  
+• Tamed Creature Movement Speed 2%  
+• Tamed Creature Stamina Regeneration 2%  
+• Tamed Creature Maximum Stamina 2%  
+• Tamed Creature Weight Capacity 2%  
+• Tamed Creature Health Regeneration 2%  
+• Tamed Creature Maximum Health +2%  
+• Oxygen Slots +1  
+• Food Slots +1  
+• Water Slots +1  
+• Backpack Slots +6  
+• Radiation Resistance 10%  
+
+### Larkell Leader Backpack
+OP backpack but isn’t cheap!
+
+• Base Backpack Slots +12  
+• Charge Items in Inventory 1  
+• Base Water Consumption −5%  
+• Base Food Consumption −5%  
+• Base Oxygen Consumption −5%  
+• Base Maximum Stamina +5%  
+• Base Stamina Action Cost −5%  
+• Base Stamina Regeneration +5%  
+• Base Animal Threat Modifier −5%  
+• Base Movement Speed +5%  
+• Base Item Wear −5%  
+• Base Weight Capacity +5%  
+• Base Ore Carry Weight −25%  
+• Base Wood Carry Weight −25%  
+• Base Radiation Resistance 5%  
+
+
+## Advanced Versions of items
+- Lithium Knife, Axe, Pickaxe, Sickle and Sledgehammer  
+  • 10k → 25k battery
+
+- Battery Powered Lantern  
+  • 6.5K → 15k Battery
+
+- Charging Station  
+  • 500 → 1250 Charging speed
+
+- Pump Jack  
+  • 200 → 400 Oil pumping speed
+
+- Crude Oil Refiner  
+  • 100 → 1600 Oil refining speed
+
+## Other QOL changes
+
+- Mini Nuclear Reactor  
+  • 100k → 30k power creation, but rods last for longer
+
+- Polymerizer Recipe  
+  • 5 Radioactive waste + 30 Inert Uranium + 25 Synthetics + 25 Plastics → 1 Uranium Rod
+
+- Chemistry Bench  
+  • 4 Exotics → 1 Stabilized Exotic  
+  • 3 Exotics → 1 Legendary Biomass
+
+- Raptor  
+  • Added Cargo Hauling to skill tree  
+  • 1 → 1 cargo slot  
+  • 2 → 2 Cargo slots + 10% weight capacity  
+  • 3 → 3 Cargo slots + 1 heavy cargo slot
+
+- Speeder Bike  
+  • 12 Base slots + 2 Heavy slots (to make use of its high weight capacity)
+
+- Uranium Collector  
+  • Increased base slots to 10, so player can skin bodies while collector continues on.
+
+
+
+
+
+
+
+Old 2023 Changes which I may revisit for 2026
 ===========================================================================
 
 I have tried to add QOL changes to the game to reduce the grind, but also keep within the lore and not make us OP
