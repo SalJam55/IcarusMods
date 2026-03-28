@@ -2,7 +2,7 @@
   "mods": [
    
     {
-      "name": "DH_QOL_Changes",
+      "name": "SalJam_Dangerous_Horizons_QOL",
       "author": "SalJam",
       "version": "1.0",
       "compatibility": "All",
@@ -14,7 +14,7 @@
       }
     },
     {
-      "name": "Speeder_Lightened",
+      "name": "SalJam_Speeder_Lightened",
       "author": "SalJam",
       "version": "1.0",
       "compatibility": "All",
@@ -26,7 +26,7 @@
       }
     },
 	{
-      "name": "Speeder_Strengthened",
+      "name": "SalJam_Speeder_Strengthened",
       "author": "SalJam",
       "version": "1.0",
       "compatibility": "All",
@@ -38,7 +38,7 @@
       }
     },
 	{
-      "name": "Speeder_Hauler",
+      "name": "SalJam_Speeder_Hauler",
       "author": "SalJam",
       "version": "1.0",
       "compatibility": "All",
