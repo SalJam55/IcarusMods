@@ -64,7 +64,7 @@ OP backpack but isn’t cheap!
 ## Other QOL changes
 
 - Mini Nuclear Reactor  
-  • 100k → 30k power creation, but rods last for longer
+  • 100k → 35k power creation, but rods last for longer
 
 - Polymerizer Recipe  
   • 5 Radioactive waste + 30 Inert Uranium + 25 Synthetics + 25 Plastics → 1 Uranium Rod
