@@ -1,37 +1,50 @@
 {
   "mods": [
+   
     {
-      "name": "AI_Adjustments",
+      "name": "DH_QOL_Changes",
       "author": "SalJam",
-      "version": "1.1",
+      "version": "1.0",
       "compatibility": "All",
-      "description": "Wolfs attack baby deer class. Bears attack deer class. Snow wolfs attack snow rabbits (less variety in the Snow biome). Parent animals attack small predators.",
+      "description": "QOL changes mainly based on Dangerous Horizons. Added a two OP backpacks and envirosuits. Higher battery Lithium tools, higher capacity oil processing, added raptor talent, added recipe to create Uranium rods.",
       "imageURL": "",
-      "readmeURL": "https://github.com/SalJam55/IcarusMods/raw/main/README.md",
-      "files": {
-          "exmodz": "https://github.com/SalJam55/IcarusMods/raw/main/AI_Adjustments.EXMODZ"
-      }
-    },
-    {
-      "name": "Item_QOL",
-      "author": "SalJam",
-      "version": "1.3",
-      "compatibility": "All",
-      "description": "Small QOL changes to reduce the grind, but also keep within the lore and not make us OP. Please view read me for full list",
-      "imageURL": "",
-      "readmeURL": "https://github.com/SalJam55/IcarusMods/raw/main/README.md",
+      "readmeURL": "",
       "files": {
           "exmodz": "https://github.com/SalJam55/IcarusMods/raw/main/Item_QOL.EXMODZ"
       }
     },
     {
-      "name": "Tame_QOL",
+      "name": "Speeder_Lightened",
       "author": "SalJam",
-      "version": "1.1",
+      "version": "1.0",
       "compatibility": "All",
-      "description": "Small changes to the mounts, to make each animal type have more defined traits. Moa is now quicker, but has 25KG weight limit. Buffalo has more speed and stamina. Increased tame time to balance.",
+      "description": "The speeder has 6 inventory slots, 1 heavy slot, is 10% quicker and uses less fuel",
       "imageURL": "",
-      "readmeURL": "https://github.com/SalJam55/IcarusMods/raw/main/README.md",
+      "readmeURL": "",
+      "files": {
+          "exmodz": "https://github.com/SalJam55/IcarusMods/raw/main/Tame_QOL.EXMODZ"
+      }
+    },
+	{
+      "name": "Speeder_Strengthened",
+      "author": "SalJam",
+      "version": "1.0",
+      "compatibility": "All",
+      "description": "The speeder has 12 inventory slots and 2 heavy slots",
+      "imageURL": "",
+      "readmeURL": "",
+      "files": {
+          "exmodz": "https://github.com/SalJam55/IcarusMods/raw/main/Tame_QOL.EXMODZ"
+      }
+    },
+	{
+      "name": "Speeder_Hauler",
+      "author": "SalJam",
+      "version": "1.0",
+      "compatibility": "All",
+      "description": "The speeder has 18 inventory slots, 3 heavy slots, but is slower by 10%",
+      "imageURL": "",
+      "readmeURL": "",
       "files": {
           "exmodz": "https://github.com/SalJam55/IcarusMods/raw/main/Tame_QOL.EXMODZ"
       }
