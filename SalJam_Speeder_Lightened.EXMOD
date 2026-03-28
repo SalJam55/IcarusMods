@@ -1,0 +1,60 @@
+{
+        "name": "SalJam_Speeder_Lightened",
+        "author": "SalJam",
+        "version": "1.0",
+        "week": "225",
+        "description": "The speeder has 6 inventory slots, 1 heavy slot, is 10% quicker and uses less fuel",
+        "fileName": "SalJam_Speeder_Lightened",
+        "readmeURL": "https://github.com/SalJam55/IcarusMods/blob/main/README.md",
+        "imageURL": "",
+        "Level2": "True",
+        "Rows": [
+        {
+            "CurrentFile": "Items-D_ItemsStatic.json",
+            "File_Items": [
+                {
+                    "Name": "Speeder_Kit",
+                    "AdditionalStats": {
+                        "(Value=\"BaseRefinedOilConsumedPerSecond_+\")": 8,
+                        "(Value=\"BaseFuelConsumedDuringBoost_+%\")": 170
+                    }
+                }
+            ]
+        },
+        {
+            "CurrentFile": "Traits-D_Equippable.json",
+            "File_Items": [
+                {
+                    "Name": "Speeder_Saddle",
+                    "GrantedStats": {
+                        "(Value=\"BaseMountCargoSlots_+\")": 6,
+                        "(Value=\"BaseMountHeavyCargoSlots_+\")": 1,
+                        "(Value=\"BaseMovementSpeed_+%\")": 10,
+                        "(Value=\"BaseWeightCapacity_+\")": 1000
+                    }
+                }
+            ]
+        },
+        {
+            "CurrentFile": "Traits-D_Fillable.json",
+            "File_Items": [
+                {
+                    "Name": "SpeederBike_Fuel",
+                    "MaximumStoredUnits": 60000
+                }
+            ]
+        },
+        {
+            "CurrentFile": "Traits-D_Itemable.json",
+            "File_Items": [
+                {
+                    "Name": "Item_Speeder_Kit",
+                    "DisplayName": "NSLOCTEXT(\"D_Itemable\", \"Item_Speeder_Kit-DisplayName\", \"Prototype Lightened Hoverframe\")"
+                }
+            ]
+        },
+        {
+            "CurrentFile": "EndOfMod"
+        }
+    ]
+}
