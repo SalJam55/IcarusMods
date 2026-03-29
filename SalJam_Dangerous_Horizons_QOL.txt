@@ -10,11 +10,6 @@ OP envirosuit but costs a lot!
 • Base Cold Resistance : +6%
 • Base Exposure Resistance : +4%
 • Tamed Creature Physical Resistance : +2%
-• Tamed Creature Movement Speed : +2%
-• Tamed Creature Stamina Regeneration : +2%
-• Tamed Creature Maximum Stamina : +2%
-• Tamed Creature Weight Capacity : +2%
-• Tamed Creature Health Regeneration : +2%
 • Tamed Creature Maximum Health : +2%
 • Oxygen Slots : +1
 • Food Slots : +1
@@ -53,19 +48,12 @@ Very OP envirosuit but costs all the exotic!
 • Base Cold Resistance : +10%
 • Base Exposure Resistance : +20%
 • Tamed Creature Physical Resistance : +15%
-• Tamed Creature Movement Speed : +10%
-• Tamed Creature Stamina Regeneration : +10%
-• Tamed Creature Maximum Stamina : +10%
-• Tamed Creature Weight Capacity : +10%
-• Tamed Creature Health Regeneration : +10%
 • Tamed Creature Maximum Health : +10%
 • Oxygen Slots : +1
 • Food Slots : +1
 • Water Slots : +1
 • Backpack Slots : +6
 • Radiation Resistance : +10%
-• Firearm Carry Weight : -50%
-• Exotic Carry Weight : -50%
 • Upgrade Slots : +4
 
 BACKPACK
