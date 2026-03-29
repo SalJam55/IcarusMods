@@ -1,14 +1,14 @@
 {
   "mods": [
-   
     {
       "name": "SalJam_Dangerous_Horizons_QOL",
       "author": "SalJam",
       "version": "1.0",
       "week": "225",
+      "compatibility": "ALL",
       "description": "QOL changes mainly based on Dangerous Horizons. Added a two OP backpacks and envirosuits. Higher battery Lithium tools, higher capacity oil processing, added raptor talent, added recipe to create Uranium rods.",
       "imageURL": "",
-      "readmeURL": "",
+      "readmeURL": "https://github.com/SalJam55/IcarusMods/blob/main/README.md",
       "files": {
           "exmodz": "https://github.com/SalJam55/IcarusMods/raw/main/SalJam_Dangerous_Horizons_QOL.EXMODZ"
       }
@@ -18,35 +18,38 @@
       "author": "SalJam",
       "version": "1.0",
       "week": "225",
+      "compatibility": "ALL",
       "description": "The speeder has 6 inventory slots, 1 heavy slot, is 10% quicker and uses less fuel",
       "imageURL": "",
-      "readmeURL": "",
+      "readmeURL": "https://github.com/SalJam55/IcarusMods/blob/main/README.md",
       "files": {
           "exmodz": "https://github.com/SalJam55/IcarusMods/raw/main/SalJam_Speeder_Lightened.EXMODZ"
       }
     },
-	{
-      "name": "SalJam_Speeder_Strengthened",
-      "author": "SalJam",
-      "version": "1.0",
-      "week": "225",
-      "description": "The speeder has 12 inventory slots and 2 heavy slots",
-      "imageURL": "",
-      "readmeURL": "",
-      "files": {
-          "exmodz": "https://github.com/SalJam55/IcarusMods/raw/main/SalJam_Speeder_Strengthened.EXMODZ"
-      }
-    },
-	{
+    {
       "name": "SalJam_Speeder_Hauler",
       "author": "SalJam",
       "version": "1.0",
       "week": "225",
+      "compatibility": "ALL",
       "description": "The speeder has 18 inventory slots, 3 heavy slots, but is slower by 10%",
       "imageURL": "",
-      "readmeURL": "",
+      "readmeURL": "https://github.com/SalJam55/IcarusMods/blob/main/README.md",
       "files": {
           "exmodz": "https://github.com/SalJam55/IcarusMods/raw/main/SalJam_Speeder_Hauler.EXMODZ"
+      }
+    },
+    {
+      "name": "SalJam_Speeder_Strengthened",
+      "author": "SalJam",
+      "version": "1.0",
+      "week": "225",
+      "compatibility": "ALL",
+      "description": "The speeder has 18 inventory slots, 3 heavy slots, but is slower by 10%",
+      "imageURL": "",
+      "readmeURL": "https://github.com/SalJam55/IcarusMods/blob/main/README.md",
+      "files": {
+          "exmodz": "https://github.com/SalJam55/IcarusMods/raw/main/SalJam_Speeder_Strengthened.EXMODZ"
       }
     }
    ]
