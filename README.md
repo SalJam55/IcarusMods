@@ -1,9 +1,9 @@
 # Lore Friendly QOL changes by SalJam
 
-## I have uploaded both pak files for manually adding to the game and EXMODZ files for Jimk72's ModManager.
+## EXMODZ files for Jimk72's ModManager.
 
 
-## 2026 Changes to come
+## 2026 Changes
 
 ### Larkell Leader Envirosuit
 OP envirosuit but costs a lot! 
