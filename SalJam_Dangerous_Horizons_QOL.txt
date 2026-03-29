@@ -1,5 +1,8 @@
 V1.0
-Larkell Leader Envirosuit
+
+## Larkell Leader Workshop Items 
+
+ENVIROSUIT
 OP envirosuit but costs a lot!
 
 • Base Physical Damage Resistance : +5%
@@ -18,8 +21,10 @@ OP envirosuit but costs a lot!
 • Water Slots : +1
 • Backpack Slots : +6
 • Radiation Resistance : +10%
+• Upgrade Slots : +3
 
-Larkell Leader Backpack
+BACKPACK
+
 OP backpack but isn’t cheap!
 
 • Base Backpack Slots : +12
@@ -38,7 +43,55 @@ OP backpack but isn’t cheap!
 • Base Wood Carry Weight : −25%
 • Base Radiation Resistance : +5%
 
-Advanced Versions of items
+## Larkwell Commander Workshop Items
+
+ENVIROSUIT
+Very OP envirosuit but costs all the exotic!
+
+• Base Physical Damage Resistance : +30%
+• Base Heat Resistance : +10%
+• Base Cold Resistance : +10%
+• Base Exposure Resistance : +20%
+• Tamed Creature Physical Resistance : +15%
+• Tamed Creature Movement Speed : +10%
+• Tamed Creature Stamina Regeneration : +10%
+• Tamed Creature Maximum Stamina : +10%
+• Tamed Creature Weight Capacity : +10%
+• Tamed Creature Health Regeneration : +10%
+• Tamed Creature Maximum Health : +10%
+• Oxygen Slots : +1
+• Food Slots : +1
+• Water Slots : +1
+• Backpack Slots : +6
+• Radiation Resistance : +10%
+• Firearm Carry Weight : -50%
+• Exotic Carry Weight : -50%
+• Upgrade Slots : +4
+
+BACKPACK
+
+Very OP backpack but costs all the exotic!
+
+• Base Backpack Slots : +18
+• Charge Items in Inventory : Yes
+• Base Water Consumption : −10%
+• Base Food Consumption : −10%
+• Base Oxygen Consumption : −10%
+• Base Maximum Stamina :+10%
+• Base Stamina Action Cost : -10%
+• Base Stamina Regeneration : +10%
+• Base Animal Threat Modifier : −15%
+• Base Movement Speed : +10%
+• Base Item Wear : −10%
+• Base Weight Capacity : +15%
+• Base Ore Carry Weight : −45%
+• Base Wood Carry Weight : −45%
+• Base Radiation Resistance : +15%
+• Fall Damage Resistance : 25%
+• Chance to Sprain Resistance : 50%
+• Sprain Duration : -50%
+
+### Advanced Versions of items (Chargables dont appear on charging station, but they do charge)
 Lithium Knife, Axe, Pickaxe, Sickle and Sledgehammer
 • 10k → 25k battery
 
@@ -62,7 +115,7 @@ Polymerizer Recipe
 • 5 Radioactive waste + 30 Inert Uranium + 25 Synthetics + 25 Plastics → 1 Uranium Rod
 
 Chemistry Bench
-• 4 Exotics → 1 Stabilized Exotic
+• 4 Exotics → 1 Stabilized Exotic (Red)
 • 3 Exotics → 1 Legendary Biomass
 
 Raptor
