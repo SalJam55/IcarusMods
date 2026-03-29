@@ -1,1 +1,10 @@
+## ONLY USE ONE SPEEDER MOD AT A TIME AS IT REPLACES THE IN GAME SPEEDER ##
 
+- SalJam_Speeder_Lightened
+The speeder has 6 inventory slots, 1 heavy slot, is 10% quicker and uses less fuel
+
+- SalJam_Speeder_Strengthened
+The speeder has 12 inventory slots and 2 heavy slots and uses less fuel
+
+- SalJam_Speeder_Hauler
+The speeder has 18 inventory slots, 3 heavy slots, but is slower by 10%
