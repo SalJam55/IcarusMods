@@ -1,105 +1,108 @@
-# Lore Friendly QOL changes by SalJam
+# Lore Friendly Dangerous Horizons QOL changes by SalJam
 
 ## EXMODZ files for Jimk72's ModManager.
 
 
 ## 2026 Changes
 
-V1.3
-Workshop Scanner Advanced			
-• Precision			    33	>	45
-• Animal attraction	50	>	65
-• Scanning speed		25	>	20
+## V1.3
 
-Workshop Extractor Advanced
-• Drill speed			33	>	45
-• Slots				    5 	>	12
+**Workshop Scanner Advanced**
+- Precision: 33 → 45  
+- Animal Attraction: 50 → 65  
+- Scanning Speed: 25 → 20  
 
-Manufacturer slot increases
-• Slots				    48	>	60
+**Workshop Extractor Advanced**
+- Drill Speed: 33 → 45  
+- Slots: 5 → 12  
 
+**Manufacturer Slot Increases**
+- Slots: 48 → 60  
 
+---
 
+## V1.2
 
-V1.2
+## Larkell Leader Workshop Items
 
-## Larkell Leader Workshop Items 
+Envirosuit
 
-ENVIROSUIT
 OP envirosuit but costs a lot!
 
-• Physical Damage Resistance : +5%
-• Heat Resistance : +6%
-• Cold Resistance : +6%
-• Exposure Resistance : +4%
-• Tamed Creature Physical Resistance : +2%
-• Tamed Creature Maximum Health : +2%
-• Oxygen Slots : +1
-• Food Slots : +1
-• Water Slots : +1
-• Backpack Slots : +6
-• Radiation Resistance : +10%
-• Upgrade Slots : +3
+- Physical Damage Resistance: +5%
+- Heat Resistance: +6%
+- Cold Resistance: +6%
+- Exposure Resistance: +4%
+- Tamed Creature Physical Resistance: +2%
+- Tamed Creature Maximum Health: +2%
+- Oxygen Slots: +1
+- Food Slots: +1
+- Water Slots: +1
+- Backpack Slots: +6
+- Radiation Resistance: +10%
+- Upgrade Slots: +3
 
-BACKPACK
+Backpack
+
 OP backpack but isn’t cheap!
 
-• Backpack Slots : +12
-• Charge Items in Inventory : Yes
-• Water Consumption : −5%
-• Food Consumption : −5%
-• Oxygen Consumption : −5%
-• Maximum Stamina :+5%
-• Stamina Action Cost : −5%
-• Stamina Regeneration : +5%
-• Animal Threat Modifier : −5%
-• Movement Speed : +5%
-• Item Wear : −5%
-• Weight Capacity : +5%
-• Ore Carry Weight : −25%
-• Wood Carry Weight : −25%
-• Radiation Resistance : +5%
+- Backpack Slots: +12
+- Charge Items in Inventory: Yes
+- Water Consumption: −5%
+- Food Consumption: −5%
+- Oxygen Consumption: −5%
+- Maximum Stamina: +5%
+- Stamina Action Cost: −5%
+- Stamina Regeneration: +5%
+- Animal Threat Modifier: −5%
+- Movement Speed: +5%
+- Item Wear: −5%
+- Weight Capacity: +5%
+- Ore Carry Weight: −25%
+- Wood Carry Weight: −25%
+- Radiation Resistance: +5%
 
-## Larkwell Commander Workshop Items
+### Larkwell Commander Workshop Items
 
-ENVIROSUIT
+Envirosuit
+
 Very OP envirosuit but costs all the exotic!
 
-• Physical Damage Resistance : +30%
-• Heat Resistance : +10%
-• Cold Resistance : +10%
-• Exposure Resistance : +20%
-• Tamed Creature Physical Resistance : +15%
-• Tamed Creature Maximum Health : +10%
-• Oxygen Slots : +1
-• Food Slots : +1
-• Water Slots : +1
-• Backpack Slots : +12
-• Radiation Resistance : +25
-• Upgrade Slots : +4
+- Physical Damage Resistance: +30%
+- Heat Resistance: +10%
+- Cold Resistance: +10%
+- Exposure Resistance: +20%
+- Tamed Creature Physical Resistance: +15%
+- Tamed Creature Maximum Health: +10%
+- Oxygen Slots: +1
+- Food Slots: +1
+- Water Slots: +1
+- Backpack Slots: +12
+- Radiation Resistance: +25%
+- Upgrade Slots: +4
 
-BACKPACK
+Backpack
+
 Very OP backpack but costs all the exotic!
 
-• Backpack Slots : +18
-• Charge Items in Inventory : Yes
-• Water Consumption : −10%
-• Food Consumption : −10%
-• Oxygen Consumption : −10%
-• Maximum Stamina :+10%
-• Stamina Action Cost : -10%
-• Stamina Regeneration : +10%
-• Animal Threat Modifier : −15%
-• Movement Speed : +10%
-• Item Wear : −10%
-• Weight Capacity : +15%
-• Ore Carry Weight : −45%
-• Wood Carry Weight : −45%
-• Radiation Resistance : +15%
-• Fall Damage Resistance : 25%
-• Chance to Sprain Resistance : 50%
-• Sprain Duration : -50% 
-
+- Backpack Slots: +18
+- Charge Items in Inventory: Yes
+- Water Consumption: −10%
+- Food Consumption: −10%
+- Oxygen Consumption: −10%
+- Maximum Stamina: +10%
+- Stamina Action Cost: −10%
+- Stamina Regeneration: +10%
+- Animal Threat Modifier: −15%
+- Movement Speed: +10%
+- Item Wear: −10%
+- Weight Capacity: +15%
+- Ore Carry Weight: −45%
+- Wood Carry Weight: −45%
+- Radiation Resistance: +15%
+- Fall Damage Resistance: 25%
+- Chance to Sprain Resistance: 50%
+- Sprain Duration: −50%
 
 ## Advanced Versions of items
 - Lithium Knife, Axe, Pickaxe, Sickle and Sledgehammer  
