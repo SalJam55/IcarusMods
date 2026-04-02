@@ -1,4 +1,20 @@
-V1.0
+V1.3
+Workshop Scanner Advanced			
+• Precision			    33	>	45
+• Animal attraction	50	>	65
+• Scanning speed		25	>	20
+
+Workshop Extractor Advanced
+• Drill speed			33	>	45
+• Slots				    5 	>	12
+
+Manufacturer slot increases
+• Slots				    48	>	60
+
+
+
+
+V1.2
 
 ## Larkell Leader Workshop Items 
 
