@@ -51,6 +51,19 @@
       "files": {
           "exmodz": "https://github.com/SalJam55/IcarusMods/raw/main/SalJam_Speeder_Strengthened.EXMODZ"
       }
+    },
+    {
+      "name": "SalJam_Bench_Separation",
+      "author": "SalJam",
+      "version": "1.0",
+      "week": "225",
+      "compatibility": "ALL",
+      "description": "Manufacturer only has Dangerous Horizons craftables",
+      "imageURL": "",
+      "readmeURL": "https://github.com/SalJam55/IcarusMods/raw/main/SalJam_Bench_Separation.txt",
+      "files": {
+          "exmodz": "https://github.com/SalJam55/IcarusMods/raw/main/SalJam_Bench_Separation.EXMODZ"
+      }
     }
    ]
  }
