@@ -1,9 +1,22 @@
 {
   "mods": [
     {
+      "name": "SalJam_Bench_Separation",
+      "author": "SalJam",
+      "version": "1.0",
+      "week": "225",
+      "compatibility": "ALL",
+      "description": "Manufacturer only has Dangerous Horizons craftables",
+      "imageURL": "",
+      "readmeURL": "https://github.com/SalJam55/IcarusMods/raw/main/SalJam_Bench_Separation.txt",
+      "files": {
+          "exmodz": "https://github.com/SalJam55/IcarusMods/raw/main/SalJam_Bench_Separation.EXMODZ"
+      }
+    },
+    {
       "name": "SalJam_Dangerous_Horizons_QOL",
       "author": "SalJam",
-      "version": "1.2",
+      "version": "1.3",
       "week": "225",
       "compatibility": "ALL",
       "description": "QOL changes mainly based on Dangerous Horizons. Added two OP backpacks and envirosuits. Higher battery Lithium tools, higher capacity oil processing, added raptor talent, added recipe to create Uranium rods.",
@@ -11,19 +24,6 @@
       "readmeURL": "https://github.com/SalJam55/IcarusMods/raw/main/SalJam_Dangerous_Horizons_QOL.txt",
       "files": {
           "exmodz": "https://github.com/SalJam55/IcarusMods/raw/main/SalJam_Dangerous_Horizons_QOL.EXMODZ"
-      }
-    },
-    {
-      "name": "SalJam_Speeder_Lightened",
-      "author": "SalJam",
-      "version": "1.0",
-      "week": "225",
-      "compatibility": "ALL",
-      "description": "The speeder has 6 inventory slots, 1 heavy slot, is 10% quicker and uses less fuel",
-      "imageURL": "",
-      "readmeURL": "https://github.com/SalJam55/IcarusMods/raw/main/SalJam_Speeder_Desc.txt",
-      "files": {
-          "exmodz": "https://github.com/SalJam55/IcarusMods/raw/main/SalJam_Speeder_Lightened.EXMODZ"
       }
     },
     {
@@ -40,8 +40,21 @@
       }
     },
     {
-      "name": "SalJam_Speeder_Strengthened",
+      "name": "SalJam_Speeder_Lightened",
       "author": "SalJam",
+      "version": "1.0",
+      "week": "225",
+      "compatibility": "ALL",
+      "description": "The speeder has 6 inventory slots, 1 heavy slot, is 10% quicker and uses less fuel",
+      "imageURL": "",
+      "readmeURL": "https://github.com/SalJam55/IcarusMods/raw/main/SalJam_Speeder_Desc.txt",
+      "files": {
+          "exmodz": "https://github.com/SalJam55/IcarusMods/raw/main/SalJam_Speeder_Lightened.EXMODZ"
+      }
+    },
+    {
+      "name": "SalJam_Speeder_Strengthened",
+      "author": "Unknown",
       "version": "1.0",
       "week": "225",
       "compatibility": "ALL",
@@ -50,19 +63,6 @@
       "readmeURL": "https://github.com/SalJam55/IcarusMods/raw/main/SalJam_Speeder_Desc.txt",
       "files": {
           "exmodz": "https://github.com/SalJam55/IcarusMods/raw/main/SalJam_Speeder_Strengthened.EXMODZ"
-      }
-    },
-    {
-      "name": "SalJam_Bench_Separation",
-      "author": "SalJam",
-      "version": "1.0",
-      "week": "225",
-      "compatibility": "ALL",
-      "description": "Manufacturer only has Dangerous Horizons craftables",
-      "imageURL": "",
-      "readmeURL": "https://github.com/SalJam55/IcarusMods/raw/main/SalJam_Bench_Separation.txt",
-      "files": {
-          "exmodz": "https://github.com/SalJam55/IcarusMods/raw/main/SalJam_Bench_Separation.EXMODZ"
       }
     }
    ]
