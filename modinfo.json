@@ -64,6 +64,19 @@
       "files": {
           "exmodz": "https://github.com/SalJam55/IcarusMods/raw/main/SalJam_Speeder_Strengthened.EXMODZ"
       }
+    },
+    {
+      "name": "SalJam_Speeder_Nuclear",
+      "author": "SalJam",
+      "version": "1.1",
+      "week": "225",
+      "compatibility": "ALL",
+      "description": "The speeder has 12 inventory slots, 2 heavy slots, 100k fuel tank, is 50% quicker and uses Uranium Infused Oil (recipe included)",
+      "imageURL": "",
+      "readmeURL": "https://github.com/SalJam55/IcarusMods/raw/main/SalJam_Speeder_Desc.txt",
+      "files": {
+          "exmodz": "https://github.com/SalJam55/IcarusMods/raw/main/SalJam_Speeder_Strengthened.EXMODZ"
+      }
     }
    ]
  }
