@@ -8,7 +8,7 @@
       "compatibility": "ALL",
       "description": "Manufacturer only has Dangerous Horizons craftables",
       "imageURL": "",
-      "readmeURL": "https://github.com/SalJam55/IcarusMods/raw/main/SalJam_Bench_Separation.txt",
+      "readmeURL": "https://raw.githubusercontent.com/SalJam55/IcarusMods/refs/heads/main/SalJam_Bench_Separation.txt",
       "files": {
           "exmodz": "https://github.com/SalJam55/IcarusMods/raw/main/SalJam_Bench_Separation.EXMODZ"
       }
@@ -75,7 +75,7 @@
       "imageURL": "",
       "readmeURL": "https://github.com/SalJam55/IcarusMods/raw/main/SalJam_Speeder_Desc.txt",
       "files": {
-          "exmodz": "https://github.com/SalJam55/IcarusMods/raw/main/SalJam_Speeder_Strengthened.EXMODZ"
+          "exmodz": "https://github.com/SalJam55/IcarusMods/raw/main/SalJam_Speeder_Nuclear.EXMODZ"
       }
     }
    ]
