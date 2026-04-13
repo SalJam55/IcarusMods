@@ -1,3 +1,6 @@
+V1.4
+Eden plant trader now trades Enzymes for exotics and Uranium			
+
 V1.3
 Workshop Scanner Advanced			
 • Precision			    33	>	45
@@ -10,8 +13,6 @@ Workshop Extractor Advanced
 
 Manufacturer slot increases
 • Slots				    48	>	60
-
-
 
 
 V1.2
