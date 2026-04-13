@@ -5,6 +5,9 @@
 
 ## 2026 Changes
 
+##V1.4
+- Eden plant trader now trades Enzymes for Ren, exotics and Uranium	
+
 ## V1.3
 
 **Workshop Scanner Advanced**
