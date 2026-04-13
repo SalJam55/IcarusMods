@@ -10,6 +10,6 @@ The speeder has 12 inventory slots, 2 heavy slots, + 5k fuel tank and is 10% qui
 The speeder has 18 inventory slots, 3 heavy slots, but is slower by 10%
 
 - SalJam_Speeder_Nuclear
-The speeder has 12 inventory slots, 2 heavy slots, 100k fuel tank, is 50% quicker and uses Uranium Infused Oil (recipe included)
+The speeder has 12 inventory slots, 2 heavy slots, 60k fuel tank, is 50% quicker and uses Uranium Infused Oil (recipe included)
 Uranium Infused Oil is created and refilled in the Polymerizer.
 To fuel the speeder, put both in your inventory > Right-Click Oil Can > Transfer
