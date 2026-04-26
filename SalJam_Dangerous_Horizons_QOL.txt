@@ -94,15 +94,6 @@ Very OP backpack but costs all the exotic!
 • Chance to Sprain Resistance : 50%
 • Sprain Duration : -50%
 
-### Advanced Versions of items (Chargables dont appear on charging station, but they do charge)
-Lithium Knife, Axe, Pickaxe, Sickle and Sledgehammer
-• 10k → 25k battery
-
-Battery Powered Lantern
-• 6.5K → 15k Battery
-
-Charging Station
-• 500 → 1250 Charging speed
 
 Pump Jack
 • 200 → 400 Oil pumping speed
@@ -112,7 +103,7 @@ Crude Oil Refiner
 
 Other QOL changes
 Mini Nuclear Reactor
-• 100k → 35k power creation, but rods last for longer
+• 100k → 35k power creation, but rods last for far longer
 
 Polymerizer Recipe
 • 5 Radioactive waste + 30 Inert Uranium + 25 Synthetics + 25 Plastics → 1 Uranium Rod
@@ -127,5 +118,4 @@ Raptor
 • 2 → 2 Cargo slots + 10% weight capacity
 • 3 → 3 Cargo slots + 1 heavy cargo slot
 
-Uranium Collector
-• Increased base slots to 10, so player can skin bodies while collector continues on.
+
