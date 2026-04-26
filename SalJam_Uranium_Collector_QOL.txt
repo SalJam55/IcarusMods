@@ -1,1 +1,0 @@
-# Increases slots to 12 and extends the active radius from 20 to 75 meters, so you can clean up the bodies.
