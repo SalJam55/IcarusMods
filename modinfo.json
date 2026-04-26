@@ -99,7 +99,7 @@
       "compatibility": "ALL",
       "description": "This adds a new Super Tesla Coil. Its bigger and more powerful, dealing 500 electric damage instead of 100. It has higher power requirements though.",
       "imageURL": "https://raw.githubusercontent.com/SalJam55/IcarusMods/main/Tesla_Coil_ADV.png",
-      "readmeURL": "https://raw.githubusercontent.com/SalJam55/IcarusMods/main/SalJam_Individual_Mod_ReadMe",
+      "readmeURL": "https://raw.githubusercontent.com/SalJam55/IcarusMods/main/SalJam_Individual_Mod_ReadMe.md",
       "files": {
           "exmodz": "https://github.com/SalJam55/IcarusMods/raw/main/SalJam_SuperTeslaCoil.EXMODZ"
       }
@@ -112,7 +112,7 @@
       "compatibility": "ALL",
       "description": "Increases slots to 12 and extends the active radius from 20 to 75 meters, so you can clean up the bodies.",
       "imageURL": "",
-      "readmeURL": "https://raw.githubusercontent.com/SalJam55/IcarusMods/main/SalJam_Individual_Mod_ReadMe",
+      "readmeURL": "https://raw.githubusercontent.com/SalJam55/IcarusMods/main/SalJam_Individual_Mod_ReadMe.md",
       "files": {
           "exmodz": "https://github.com/SalJam55/IcarusMods/raw/main/SalJam_Uranium_Collector_QOL.EXMODZ"
       }
@@ -125,7 +125,7 @@
       "compatibility": "ALL",
       "description": "Adds advanced versions of all Lithium Tools, Laser tools and Battery Lights. The batteries are increased to 25K and 15K respectively. Also includes an Advanced Charging Device that increases power from 500 to 1500 for faster recharging.",
       "imageURL": "https://raw.githubusercontent.com/SalJam55/IcarusMods/main/Charging_Device_ADV.png",
-      "readmeURL": "https://raw.githubusercontent.com/SalJam55/IcarusMods/main/SalJam_Individual_Mod_ReadMe",
+      "readmeURL": "https://raw.githubusercontent.com/SalJam55/IcarusMods/main/SalJam_Individual_Mod_ReadMe.md",
       "files": {
           "exmodz": "https://github.com/SalJam55/IcarusMods/raw/main/SalJam_Chargable_Devices_Advanced.EXMODZ"
       }
