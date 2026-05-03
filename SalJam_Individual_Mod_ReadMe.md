@@ -13,3 +13,6 @@ Battery Powered Lights
 Advanced Charging Station
 • 500 → 1500 Charging speed
 These tools icon has a blue lightning mark for easier identification
+
+# SalJam_Repair_Bench
+> Adds a repair bench that only uses electricity for repairs, but repairing will take time. Includes an alteration bench for removing attachments in 1 second, as these cant be repaired.
