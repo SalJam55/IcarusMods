@@ -23,7 +23,7 @@
       "imageURL": "",
       "readmeURL": "https://github.com/SalJam55/IcarusMods/raw/main/SalJam_Dangerous_Horizons_QOL.txt",
       "files": {
-          "exmodz": "https://github.com/SalJam55/IcarusMods/raw/main/SalJam_Dangerous_Horizons_QOL.EXMODZ"
+          "exmodz": "https://github.com/SalJam55/IcarusMods/releases/download/IcarusExmodz/SalJam_Dangerous_Horizons_QOL.EXMODZ"
       }
     },
     {
@@ -75,7 +75,7 @@
       "imageURL": "",
       "readmeURL": "https://github.com/SalJam55/IcarusMods/raw/main/SalJam_Speeder_Desc.txt",
       "files": {
-          "exmodz": "https://github.com/SalJam55/IcarusMods/raw/main/SalJam_Speeder_Nuclear.EXMODZ"
+          "exmodz": "https://github.com/SalJam55/IcarusMods/releases/download/IcarusExmodz/SalJam_Speeder_Nuclear.EXMODZ"
       }
     },
     {
@@ -86,9 +86,9 @@
       "compatibility": "ALL",
       "description": "Added random spawns of TPS soldiers over the map. Some will drop higher end loot",
       "imageURL": "",
-      "readmeURL": "",
+      "readmeURL": "https://raw.githubusercontent.com/SalJam55/IcarusMods/main/SalJam_Individual_Mod_ReadMe.md",
       "files": {
-          "exmodz": "https://github.com/SalJam55/IcarusMods/raw/main/SalJam_Roaming_NPCs.EXMODZ"
+          "exmodz": "https://github.com/SalJam55/IcarusMods/releases/download/IcarusExmodz/SalJam_Roaming_NPCs.EXMODZ"
       }
     },  
     {
@@ -101,7 +101,7 @@
       "imageURL": "https://raw.githubusercontent.com/SalJam55/IcarusMods/main/Icon_Tesla_Coil_ADV.png",
       "readmeURL": "https://raw.githubusercontent.com/SalJam55/IcarusMods/main/SalJam_Individual_Mod_ReadMe.md",
       "files": {
-          "exmodz": "https://github.com/SalJam55/IcarusMods/raw/main/SalJam_SuperTeslaCoil.EXMODZ"
+          "exmodz": "https://github.com/SalJam55/IcarusMods/releases/download/IcarusExmodz/SalJam_SuperTeslaCoil.EXMODZ"
       }
     },
 	  {
@@ -114,7 +114,7 @@
       "imageURL": "",
       "readmeURL": "https://raw.githubusercontent.com/SalJam55/IcarusMods/main/SalJam_Individual_Mod_ReadMe.md",
       "files": {
-          "exmodz": "https://github.com/SalJam55/IcarusMods/raw/main/SalJam_Uranium_Collector_QOL.EXMODZ"
+          "exmodz": "https://github.com/SalJam55/IcarusMods/releases/download/IcarusExmodz/SalJam_Uranium_Collector_QOL.EXMODZ"
       }
     },
 	  {
@@ -127,7 +127,7 @@
       "imageURL": "https://raw.githubusercontent.com/SalJam55/IcarusMods/main/Icon_Charging_Device_ADV.png",
       "readmeURL": "https://raw.githubusercontent.com/SalJam55/IcarusMods/main/SalJam_Individual_Mod_ReadMe.md",
       "files": {
-          "exmodz": "https://github.com/SalJam55/IcarusMods/raw/main/SalJam_Chargable_Devices_Advanced.EXMODZ"
+          "exmodz": "https://github.com/SalJam55/IcarusMods/releases/download/IcarusExmodz/SalJam_Chargable_Devices_Advanced.EXMODZ"
       }
     },
 	  {
@@ -140,7 +140,7 @@
       "imageURL": "https://github.com/SalJam55/IcarusMods/blob/main/Icon_Repair_Bench_Time.png",
       "readmeURL": "https://github.com/SalJam55/IcarusMods/blob/main/SalJam_Individual_Mod_ReadMe",
       "files": {
-          "exmodz": "https://github.com/SalJam55/IcarusMods/raw/main/SalJam_Repair_Bench.EXMODZ"
+          "exmodz": "https://github.com/SalJam55/IcarusMods/releases/download/IcarusExmodz/SalJam_Repair_Bench.EXMODZ"
       }
     }
     ]
