@@ -16,3 +16,6 @@ These tools icon has a blue lightning mark for easier identification
 
 # SalJam_Repair_Bench
 > Adds a repair bench that only uses electricity for repairs, but repairing will take time. Includes an alteration bench for removing attachments in 1 second, as these cant be repaired.
+
+# SalJam_Roaming_NPCs
+> Added random spawns of TPS soldiers over the map. Some will drop higher end loot
