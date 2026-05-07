@@ -3,16 +3,16 @@ Eden plant trader now trades Enzymes for Ren, exotics and Uranium
 
 V1.3
 Workshop Scanner Advanced			
-• Precision			    33	>	45
-• Animal attraction	50	>	65
-• Scanning speed		25	>	20
+*Precision			      33	>	45
+*Animal attraction	  50	>	65
+*Scanning speed		  25	>	20
 
 Workshop Extractor Advanced
-• Drill speed			33	>	45
-• Slots				    5 	>	12
+*Drill speed			33	>	45
+*Slots				    5 	>	12
 
 Manufacturer slot increases
-• Slots				    48	>	60
+*Slots				    48	>	60
 
 
 V1.2
@@ -22,100 +22,100 @@ V1.2
 ENVIROSUIT
 OP envirosuit but costs a lot!
 
-• Physical Damage Resistance : +5%
-• Heat Resistance : +6%
-• Cold Resistance : +6%
-• Exposure Resistance : +4%
-• Tamed Creature Physical Resistance : +2%
-• Tamed Creature Maximum Health : +2%
-• Oxygen Slots : +1
-• Food Slots : +1
-• Water Slots : +1
-• Backpack Slots : +6
-• Radiation Resistance : +10%
-• Upgrade Slots : +3
+*Physical Damage Resistance : +5%
+*Heat Resistance : +6%
+*Cold Resistance : +6%
+*Exposure Resistance : +4%
+*Tamed Creature Physical Resistance : +2%
+*Tamed Creature Maximum Health : +2%
+*Oxygen Slots : +1
+*Food Slots : +1
+*Water Slots : +1
+*Backpack Slots : +6
+*Radiation Resistance : +10%
+*Upgrade Slots : +3
 
 BACKPACK
 OP backpack but isn’t cheap!
 
-• Backpack Slots : +12
-• Charge Items in Inventory : Yes
-• Water Consumption : −5%
-• Food Consumption : −5%
-• Oxygen Consumption : −5%
-• Maximum Stamina :+5%
-• Stamina Action Cost : −5%
-• Stamina Regeneration : +5%
-• Animal Threat Modifier : −5%
-• Movement Speed : +5%
-• Item Wear : −5%
-• Weight Capacity : +5%
-• Ore Carry Weight : −25%
-• Wood Carry Weight : −25%
-• Radiation Resistance : +5%
+*Backpack Slots : +12
+*Charge Items in Inventory : Yes
+*Water Consumption : −5%
+*Food Consumption : −5%
+*Oxygen Consumption : −5%
+*Maximum Stamina :+5%
+*Stamina Action Cost : −5%
+*Stamina Regeneration : +5%
+*Animal Threat Modifier : −5%
+*Movement Speed : +5%
+*Item Wear : −5%
+*Weight Capacity : +5%
+*Ore Carry Weight : −25%
+*Wood Carry Weight : −25%
+*Radiation Resistance : +5%
 
 ## Larkwell Commander Workshop Items
 
 ENVIROSUIT
 Very OP envirosuit but costs all the exotic!
 
-• Physical Damage Resistance : +30%
-• Heat Resistance : +10%
-• Cold Resistance : +10%
-• Exposure Resistance : +20%
-• Tamed Creature Physical Resistance : +15%
-• Tamed Creature Maximum Health : +10%
-• Oxygen Slots : +1
-• Food Slots : +1
-• Water Slots : +1
-• Backpack Slots : +12
-• Radiation Resistance : +25
-• Upgrade Slots : +4
+*Physical Damage Resistance : +30%
+*Heat Resistance : +10%
+*Cold Resistance : +10%
+*Exposure Resistance : +20%
+*Tamed Creature Physical Resistance : +15%
+*Tamed Creature Maximum Health : +10%
+*Oxygen Slots : +1
+*Food Slots : +1
+*Water Slots : +1
+*Backpack Slots : +12
+*Radiation Resistance : +25
+*Upgrade Slots : +4
 
 BACKPACK
 Very OP backpack but costs all the exotic!
 
-• Backpack Slots : +18
-• Charge Items in Inventory : Yes
-• Water Consumption : −10%
-• Food Consumption : −10%
-• Oxygen Consumption : −10%
-• Maximum Stamina :+10%
-• Stamina Action Cost : -10%
-• Stamina Regeneration : +10%
-• Animal Threat Modifier : −15%
-• Movement Speed : +10%
-• Item Wear : −10%
-• Weight Capacity : +15%
-• Ore Carry Weight : −45%
-• Wood Carry Weight : −45%
-• Radiation Resistance : +15%
-• Fall Damage Resistance : 25%
-• Chance to Sprain Resistance : 50%
-• Sprain Duration : -50%
+*Backpack Slots : +18
+*Charge Items in Inventory : Yes
+*Water Consumption : −10%
+*Food Consumption : −10%
+*Oxygen Consumption : −10%
+*Maximum Stamina :+10%
+*Stamina Action Cost : -10%
+*Stamina Regeneration : +10%
+*Animal Threat Modifier : −15%
+*Movement Speed : +10%
+*Item Wear : −10%
+*Weight Capacity : +15%
+*Ore Carry Weight : −45%
+*Wood Carry Weight : −45%
+*Radiation Resistance : +15%
+*Fall Damage Resistance : 25%
+*Chance to Sprain Resistance : 50%
+*Sprain Duration : -50%
 
 
 Pump Jack
-• 200 → 400 Oil pumping speed
+*200 → 400 Oil pumping speed
 
 Crude Oil Refiner
-• 100 → 1600 Oil refining speed
+*100 → 1600 Oil refining speed
 
 Other QOL changes
 Mini Nuclear Reactor
-• 100k → 35k power creation, but rods last for far longer
+*100k → 35k power creation, but rods last for far longer
 
 Polymerizer Recipe
-• 5 Radioactive waste + 30 Inert Uranium + 25 Synthetics + 25 Plastics → 1 Uranium Rod
+*5 Radioactive waste + 30 Inert Uranium + 25 Synthetics + 25 Plastics → 1 Uranium Rod
 
 Chemistry Bench
-• 4 Exotics → 1 Stabilized Exotic (Red)
-• 3 Exotics → 1 Legendary Biomass
+*4 Exotics → 1 Stabilized Exotic (Red)
+*3 Exotics → 1 Legendary Biomass
 
 Raptor
-• Added Cargo Hauling to skill tree
-• 1 → 1 cargo slot
-• 2 → 2 Cargo slots + 10% weight capacity
-• 3 → 3 Cargo slots + 1 heavy cargo slot
+*Added Cargo Hauling to skill tree
+*1 → 1 cargo slot
+*2 → 2 Cargo slots + 10% weight capacity
+*3 → 3 Cargo slots + 1 heavy cargo slot
 
 
