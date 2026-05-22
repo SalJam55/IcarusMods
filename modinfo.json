@@ -142,6 +142,32 @@
       "files": {
           "exmodz": "https://github.com/SalJam55/IcarusMods/releases/download/IcarusExmodz/SalJam_Repair_Bench.EXMODZ"
       }
+    },
+	   {
+      "name": "SalJam_Workshop_Deployables",
+      "author": "SalJam",
+      "version": "1.0",
+      "week": "227",
+      "compatibility": "ALL",
+      "description": "Adds endgame WorkShop Deployables. An Exotic Scanner that has a 4x larger scan area, extractor thats twice as fast and has 18 slots. A solar panel that gives 20k power, a battery with 20M capacity and 20k flow rate. A heater and cooler that give a massive radius.",
+      "imageURL": "https://github.com/SalJam55/IcarusMods/blob/main/Icon_Deployables.png",
+      "readmeURL": "https://github.com/SalJam55/IcarusMods/blob/main/SalJam_Individual_Mod_ReadMe",
+      "files": {
+          "exmodz": "https://github.com/SalJam55/IcarusMods/releases/download/IcarusExmodz/SalJam_Workshop_Deployables.EXMODZ"
+      }
+    },
+	 {
+      "name": "SalJam_Full_Trophies",
+      "author": "SalJam",
+      "version": "1.0",
+      "week": "227",
+      "compatibility": "ALL",
+      "description": "Adds a set of full body trophies for several Icarus creatures. If this mod is popular, ill keep adding creatures and appearance versions.",
+      "imageURL": "https://github.com/SalJam55/IcarusMods/blob/main/Icon_Trophies.png",
+      "readmeURL": "https://github.com/SalJam55/IcarusMods/blob/main/SalJam_Individual_Mod_ReadMe",
+      "files": {
+          "exmodz": "https://github.com/SalJam55/IcarusMods/releases/download/IcarusExmodz/SalJam_Full_Trophies.EXMODZ"
+      }
     }
     ]
  }
