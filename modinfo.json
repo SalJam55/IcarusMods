@@ -78,19 +78,7 @@
           "exmodz": "https://github.com/SalJam55/IcarusMods/releases/download/IcarusExmodz/SalJam_Speeder_Nuclear.EXMODZ"
       }
     },
-    {
-      "name": "SalJam_Roaming_NPCs",
-      "author": "SalJam",
-      "version": "1.1",
-      "week": "226",
-      "compatibility": "ALL",
-      "description": "Added random spawns of TPS soldiers over the map. Some will drop higher end loot",
-      "imageURL": "",
-      "readmeURL": "https://raw.githubusercontent.com/SalJam55/IcarusMods/main/SalJam_Individual_Mod_ReadMe.md",
-      "files": {
-          "exmodz": "https://github.com/SalJam55/IcarusMods/releases/download/IcarusExmodz/SalJam_Roaming_NPCs.EXMODZ"
-      }
-    },  
+    
     {
       "name": "SalJam_SuperTeslaCoil",
       "author": "SalJam",
@@ -156,18 +144,6 @@
           "exmodz": "https://github.com/SalJam55/IcarusMods/releases/download/IcarusExmodz/SalJam_Workshop_Deployables.EXMODZ"
       }
     },
-	 {
-      "name": "SalJam_Full_Trophies",
-      "author": "SalJam",
-      "version": "1.1",
-      "week": "227",
-      "compatibility": "ALL",
-      "description": "Adds a set of full body trophies for several Icarus creatures. If this mod is popular, ill keep adding creatures and appearance versions.",
-      "imageURL": "https://github.com/SalJam55/IcarusMods/blob/main/Icon_Trophies.png",
-      "readmeURL": "https://github.com/SalJam55/IcarusMods/blob/main/SalJam_Individual_Mod_ReadMe",
-      "files": {
-          "exmodz": "https://github.com/SalJam55/IcarusMods/releases/download/IcarusExmodz/SalJam_Full_Trophies.EXMODZ"
-      }
-    }
+	 
     ]
  }
