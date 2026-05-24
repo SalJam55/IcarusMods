@@ -27,3 +27,4 @@ These tools icon has a blue lightning mark for easier identification
 
 ### SalJam_Full_Trophies
 > Adds a set of full body trophies for several Icarus creatures. If this mod is popular, ill keep adding creatures and appearance versions.
+> 1.3 Adds all variants of Raptor, all drones and introduces a baseless version of most of the trophies.
