@@ -1,7 +1,7 @@
 ## Individual Mods
 
 ### SalJam_Uranium_Collector_QOL
-> Increases slots to 12 and extends the active radius from 20 to 75 meters, so you can clean up the bodies.
+> Increases slots to 12 and extends the active radius from 2000 to 17500 units, so you can clean up the bodies.
 
 ### SalJam_SuperTeslaCoil
 > This adds a new Super Tesla Coil. Its bigger and more powerful, dealing 500 electric damage instead of 100. It has higher power requirements though.
