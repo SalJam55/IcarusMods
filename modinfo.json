@@ -107,10 +107,10 @@
 	  {
       "name": "SalJam_Uranium_Collector_QOL",
       "author": "SalJam",
-      "version": "1.0",
+      "version": "1.1",
       "week": "227",
       "compatibility": "ALL",
-      "description": "Increases slots to 12 and extends the active radius from 20 to 75 meters, so you can clean up the bodies.",
+      "description": "Increases slots to 12 and extends the active radius from 2000 to 17500 units, so you can clean up the bodies.",
       "imageURL": "https://github.com/SalJam55/IcarusMods/blob/main/Icon_Uranium_Collector.png",
       "readmeURL": "https://raw.githubusercontent.com/SalJam55/IcarusMods/main/SalJam_Individual_Mod_ReadMe.md",
       "files": {
