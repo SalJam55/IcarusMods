@@ -120,10 +120,10 @@
 {
       "name": "SalJam_Full_Trophies",
       "author": "SalJam",
-      "version": "1.4",
+      "version": "1.5",
       "week": "227",
       "compatibility": "ALL",
-      "description": "Adds a set of full body trophies for several Icarus creatures, with a base and without.  I'll keep adding creatures and appearance versions.",
+      "description": "Adds a set of full body trophies for several Icarus creatures, with a base and without.  Added Scorpion, Hyena, Zebra, Chamois, Boar and a larger version of Big Blue (9% scale).",
       "imageURL": "https://github.com/SalJam55/IcarusMods/blob/main/Icon_Trophies.png",
       "readmeURL": "https://github.com/SalJam55/IcarusMods/blob/main/SalJam_Individual_Mod_ReadMe",
       "files": {
