@@ -23,7 +23,12 @@ These tools icon has a blue lightning mark for easier identification
 > Added random spawns of TPS soldiers over the map. Some will drop higher end loot
 
 ### SalJam_Workshop_Deployables
-> Adds endgame WorkShop Deployables. An Exotic Scanner that has a 4x larger scan area, extractor thats twice as fast and has 18 slots. A solar panel that gives 20k power, a battery with 20M capacity and 20k flow rate. A heater and cooler that give a massive radius.
+> Adds endgame WorkShop Deployables.
+> An Exotic Scanner that has a 4x larger scan area, Exotic and uranium extractors that are twice as fast and have 18 slots.
+> A solar panel that gives 20k power and a battery with 15M capacity and 20k flow rate.
+> A heater and cooler that give a massive radius.
+> Much larger Oil, Water and Biofuel containers from the workshop.
+> An ore diluter that combines ores with stone, creating higher quantities of ore.
 
 ### SalJam_Full_Trophies
 > Adds a set of full body trophies for several Icarus creatures. If this mod is popular, ill keep adding creatures and appearance versions.
