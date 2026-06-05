@@ -94,10 +94,10 @@
 	   {
       "name": "SalJam_Workshop_Deployables",
       "author": "SalJam",
-      "version": "1.0",
+      "version": "1.1",
       "week": "227",
       "compatibility": "ALL",
-      "description": "Adds endgame WorkShop Deployables. An Exotic Scanner that has a 4x larger scan area, extractor thats twice as fast and has 18 slots. A solar panel that gives 20k power, a battery with 20M capacity and 20k flow rate. A heater and cooler that give a massive radius.",
+      "description": "Adds endgame WorkShop Deployables. An Exotic Scanner that has a 4x larger scan area, Exotic and uranium extractors that are twice as fast and have 18 slots. A solar panel that gives 20k power, a battery with 15M capacity and 20k flow rate. A heater and cooler that give a massive radius and an ore diluter that increases ore. Larger Oil, Water and Biofuel containers also.",
       "imageURL": "https://github.com/SalJam55/IcarusMods/blob/main/Icon_Deployables.png",
       "readmeURL": "https://github.com/SalJam55/IcarusMods/blob/main/SalJam_Individual_Mod_ReadMe",
       "files": {
