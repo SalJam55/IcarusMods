@@ -4,6 +4,11 @@
 > If this mod is popular, I'll keep adding creatures and appearance versions.
 
 #### Version History
+- **1.1**
+  - Adds Yeti, Elephant, Bear, Polar Bear, Mammoth and Big Blue (2% scale)
+
+- **1.2**
+  - Adds Monkey, Spider, Wyrm Queen, Crocodile
 
 - **1.3**
   - Adds all variants of Raptor
@@ -11,7 +16,7 @@
   - Introduces a baseless version of most trophies
 
 - **1.4**
-  - Adds new creatures
+  - Adds Leopard, Snow Leopard and mutated creatures
 
 - **1.5**
   - Adds Scorpion, Hyena, Zebra, Chamois, Boar
