@@ -1,0 +1,33 @@
+name: Track Mod Downloads
+
+on:
+  schedule:
+    - cron: "0 12 * * *"  # runs daily at 12:00 UTC
+  workflow_dispatch:      # allows manual trigger
+
+jobs:
+  track:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.x"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run tracker
+        run: python tracker.py
+
+      - name: Commit results
+        run: |
+          git config user.name "download-bot"
+          git config user.email "bot@example.com"
+          git add downloads.csv
+          git commit -m "Update download stats"
+          git push
