@@ -30,8 +30,3 @@ These tools icon has a blue lightning mark for easier identification
 > Much larger Oil, Water and Biofuel containers from the workshop.
 > An ore diluter that combines ores with stone, creating higher quantities of ore.
 
-### SalJam_Full_Trophies
-> Adds a set of full body trophies for several Icarus creatures. If this mod is popular, ill keep adding creatures and appearance versions.
-> 1.3 Adds all variants of Raptor, all drones and introduces a baseless version of most of the trophies.
-> 1.4 Adds new creatures
-> 1.5 Added Scorpion, Hyena, Zebra, Chamois, Boar and a larger version of Big Blue (9% scale)
