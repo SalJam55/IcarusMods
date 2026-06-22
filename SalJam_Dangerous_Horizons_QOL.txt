@@ -1,3 +1,7 @@
+V1.5
+*Moved Workshop items to its own section at the bottom of the list.
+*Adjusted prices it apparel
+
 V1.4
 Eden plant trader now trades Enzymes for Ren, exotics and Uranium			
 
