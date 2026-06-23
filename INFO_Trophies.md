@@ -24,3 +24,7 @@
 
 - **1.6**
   - Adds Chamois, Kea, Tusker, Tusker Juvinile, Tusker adult & Juvinile display and Buffalo.
+ 
+- **1.7**
+  - Adds Cave Worm, Trapjaw, Home (Earth) display, Lava Broodling, Needler, Slinker, Slinker Juvinile, Slinker Adult & Juvinile display and 3 types of slug.
+  - I have also added a new recipies section for just my trophies to make them easier to see.
