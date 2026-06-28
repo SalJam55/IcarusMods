@@ -81,10 +81,10 @@
 	  {
       "name": "SalJam_Repair_Bench",
       "author": "SalJam",
-      "version": "1.0",
+      "version": "1.1",
       "week": "227",
       "compatibility": "ALL",
-      "description": "Adds a repair bench that only uses electricity for repairs, but repairing will take time. Tools and weapons can be repaired, including workshop. Includes an alteration bench for removing attachments in 1 second, as these cant be repaired",
+      "description": "Adds a repair bench that only uses electricity for repairs, but repairing will take time. Tools and weapons can be repaired, NOT including workshop as they couldnt be returned once repaired. Includes an alteration bench for removing attachments in 1 second, as these cant be repaired",
       "imageURL": "https://github.com/SalJam55/IcarusMods/blob/main/Icon_Repair_Bench_Time.png",
       "readmeURL": "https://github.com/SalJam55/IcarusMods/blob/main/SalJam_Individual_Mod_ReadMe",
       "files": {
