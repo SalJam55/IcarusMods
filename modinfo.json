@@ -73,7 +73,7 @@
       "compatibility": "ALL",
       "description": "Adds advanced versions of all Lithium Tools, Laser tools and Battery Lights. The batteries are increased to 25K and 15K respectively. Also includes an Advanced Charging Device that increases power from 500 to 1500 for faster recharging.",
       "imageURL": "https://raw.githubusercontent.com/SalJam55/IcarusMods/main/Icon_Charging_Device_ADV.png",
-      "readmeURL": "https://raw.githubusercontent.com/SalJam55/IcarusMods/main/SalJam_Individual_Mod_ReadMe.md",
+      "readmeURL": "https://raw.githubusercontent.com/SalJam55/IcarusMods/main/INFO_SalJam_Chargable_Devices_Advanced.md",
       "files": {
           "exmodz": "https://github.com/SalJam55/IcarusMods/releases/download/IcarusExmodz/SalJam_Chargable_Devices_Advanced.EXMODZ"
       }
@@ -81,7 +81,7 @@
 	  {
       "name": "SalJam_Repair_Bench",
       "author": "SalJam",
-      "version": "1.2",
+      "version": "1.3",
       "week": "238",
       "compatibility": "ALL",
       "description": "Adds a repair bench that only uses electricity for repairs, but repairing will take time. Tools and weapons can be repaired, NOT including workshop as they couldnt be returned once repaired. Includes an alteration bench for removing attachments in 1 second, as these cant be repaired",
