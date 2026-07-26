@@ -16,10 +16,10 @@
     {
       "name": "SalJam_Dangerous_Horizons_QOL",
       "author": "SalJam",
-      "version": "1.5",
-      "week": "238",
+      "version": "1.6",
+      "week": "242",
       "compatibility": "ALL",
-      "description": "Added additional Advanced versions of workshop scanner and extractor all with increases in stats. 2 new purchaseable workshop suits and backpacks. Increased output versions of oil pump, refiner and charging station. Added multiple exotic recipies in both chemistry bench and Eden trader. Added raptor talent and  recipe to create Uranium rods.",
+      "description": "Advanced version of workshop scanner and extractor all with increases in stats. 2 new purchaseable endgame workshop suits and backpacks. Advanced versions of oil pump, refiner and mini uranium generator with increased output. Hunter and Farmer traders now trade Enzymes, Dust, Rubys and Cavework scales for exotics. Added raptor talent and recipe to create Uranium rods from uranium waste.",
       "imageURL": "https://github.com/SalJam55/IcarusMods/blob/main/Icon_DH_QOL.png",
       "readmeURL": "https://github.com/SalJam55/IcarusMods/raw/main/SalJam_Dangerous_Horizons_QOL.txt",
       "files": {
