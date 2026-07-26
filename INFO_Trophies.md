@@ -29,5 +29,5 @@
   - Adds Cave Worm, Trapjaw, Home (Earth) display, Lava Broodling, Needler, Slinker, Slinker Juvinile, Slinker Adult & Juvinile display and 3 types of slug.
   - I have also added a new recipies section for just my trophies to make them easier to see.
  
- - **2.0**
+- **2.0**
   - The BOSS update! Adds all missing world bosses, including Great Hunts. Garganutan, Rimetusk, Alpha Wolf, Quarrite, Giant Scorpion, Hammerhead Slug and Lava Hunter. Some have an angry 3rd variation.
