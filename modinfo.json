@@ -29,10 +29,10 @@
     {
       "name": "SalJam_Speeder_Nuclear",
       "author": "SalJam",
-      "version": "1.1",
-      "week": "238",
+      "version": "1.3",
+      "week": "242",
       "compatibility": "ALL",
-      "description": "The speeder has 12 inventory slots, 2 heavy slots and is much quicker & fuel efficient",
+      "description": "The speeder has 18 inventory slots, 3 heavy slots and is much quicker & with better fall protection",
       "imageURL": "https://github.com/SalJam55/IcarusMods/blob/main/Icon_Speeder.png",
       "readmeURL": "https://github.com/SalJam55/IcarusMods/raw/main/SalJam_Speeder_Desc.txt",
       "files": {
@@ -42,8 +42,8 @@
     {
       "name": "SalJam_SuperTeslaCoil",
       "author": "SalJam",
-      "version": "1.0",
-      "week": "238",
+      "version": "1.1",
+      "week": "242",
       "compatibility": "ALL",
       "description": "This adds a new Super Tesla Coil. Its bigger and more powerful, dealing 500 electric damage instead of 100. It has higher power requirements though.",
       "imageURL": "https://raw.githubusercontent.com/SalJam55/IcarusMods/main/Icon_Tesla_Coil_ADV.png",
@@ -68,8 +68,8 @@
 	  {
       "name": "SalJam_Chargable_Devices_Advanced",
       "author": "SalJam",
-      "version": "1.1",
-      "week": "238",
+      "version": "1.2",
+      "week": "242",
       "compatibility": "ALL",
       "description": "Adds advanced versions of all Lithium Tools, Laser tools and Battery Lights. The batteries are increased to 25K and 15K respectively. Also includes an Advanced Charging Device that increases power from 500 to 1500 for faster recharging.",
       "imageURL": "https://raw.githubusercontent.com/SalJam55/IcarusMods/main/Icon_Charging_Device_ADV.png",
@@ -94,10 +94,10 @@
 	   {
       "name": "SalJam_Workshop_Deployables",
       "author": "SalJam",
-      "version": "1.2",
-      "week": "238",
+      "version": "1.4",
+      "week": "242",
       "compatibility": "ALL",
-      "description": "Adds endgame WorkShop Deployables. An Exotic Scanner that has a 4x larger scan area, Exotic and uranium extractors that are twice as fast and have 18 slots. A solar panel that gives 20k power, a battery with 15M capacity and 20k flow rate. A heater and cooler that give a massive radius and an ore diluter that increases ore. Larger Oil, Water and Biofuel containers also.",
+      "description": "Adds endgame WorkShop Deployables. A long range Exotic Scanner, advanced Exotic, Red and Uranium extractors that are faster and larger storge. A much larger solar panel and battery. A heater and cooler with larger radius, an ore diluter that increases ore and adds Ruby, Lithium and exotic conversion. Larger refined Oil, Water and Biofuel containers. A workshop map beacon and different sized deep drills.",
       "imageURL": "https://github.com/SalJam55/IcarusMods/blob/main/Icon_Deployables.png",
       "readmeURL": "https://raw.githubusercontent.com/SalJam55/IcarusMods/main/INFO_Workshop_Deployables.md",
       "files": {
